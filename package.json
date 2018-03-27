@@ -6,8 +6,10 @@
   "author": "MC Roiban",
   "dependencies": {
     "request": "*",
+    "json2csv": "*",
     "cheerio": "*",
-    "system-sleep": "*"
+    "system-sleep": "*",
+    "node-fetch": "*"
   },
   "devDependencies": {},
   "engines": {
