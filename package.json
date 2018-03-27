@@ -1,0 +1,16 @@
+{
+  "name": "roiban_tech_solutions_js",
+  "version": "0.1.0",
+  "description": "Web crawler powered by Headless Chrome",
+  "license": "MIT",
+  "author": "MC Roiban",
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*",
+    "system-sleep": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=6.4.0"
+  }
+}
